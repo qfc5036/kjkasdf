@@ -1,7 +1,7 @@
 // Author Qiaoxu Cui qfc5036@psu.edu 
-// Collaborator Zhili Hu zjh5625@psu.edu
-// Collaborator Shufang Huang sbh5655@psu.edu 
-// Collaborator Isabel Vera ikv5018@psu.edu
+// Collaborator: Zhili Hu zjh5625@psu.edu
+// Collaborator: Shufang Huang sbh5655@psu.edu 
+// Collaborator: Isabel Vera ikv5018@psu.edu
 
 #include <stdio.h>
 #include <stdlib.h>
